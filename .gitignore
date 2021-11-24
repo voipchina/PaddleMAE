@@ -1,0 +1,13 @@
+# python files
+*.pyc
+
+# vi files
+*.swp
+*.swo
+
+# mac files
+*.DS_Store
+*_.DS_Store
+
+# vscode files
+*.vscode

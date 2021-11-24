@@ -1,0 +1,5 @@
+paddlepaddle-gpu==2.2.0
+# kaggle competitions download -c imagenet-object-localization-challenge
+kaggle
+# CPU
+#paddlepaddle==2.2.0
