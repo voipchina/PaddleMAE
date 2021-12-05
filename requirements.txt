@@ -1,5 +1,10 @@
-paddlepaddle-gpu==2.2.0
+#common
+scikit-image
+# local install
+#paddlepaddle-gpu==2.2.0
 # kaggle competitions download -c imagenet-object-localization-challenge
-kaggle
+#kaggle
 # CPU
-#paddlepaddle==2.2.0
+paddlepaddle
+opencv-python
+tqdm
